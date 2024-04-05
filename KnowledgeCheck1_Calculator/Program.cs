@@ -87,6 +87,8 @@ namespace KnowledgeCheck1_Calculator
                     Console.WriteLine("Unknown input");
                     break;
             }
+
+            Console.ReadKey();
             
             static void ErrorMessage()
             {
